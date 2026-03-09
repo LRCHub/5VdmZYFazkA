@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "狂えない僕らは (2021 ver.) [self cover]",
+  "base_artist": "WhaleDontSleep",
+  "createdAt": "2026-03-09T10:16:37.781784Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "狂えない僕らは",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_狂えない僕らは_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "狂えない僕らは (2021 ver.)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_02_狂えない僕らは_(2021_ver.)_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "狂えない僕らは (2021 ver.) [self cover]",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_03_狂えない僕らは_(2021_ver.)_[self_cover]_くじら.txt"
+    }
+  ]
+}
